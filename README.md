@@ -5,7 +5,7 @@
 ## If you use this code or dataset in your research, please cite the following paper:
 
 ## "LKAM-RCatenaryDet: Enhanced Railway Catenary Foreign Object Detection via Large Kernel Fusion and Global Attention Mechanism",  
-## *The Visual Computer*, Springer, 2025.
+## *The Journal of Supercomputing, 2025.
 * The BibTex:
 ```bibtex
 @article{ref,
